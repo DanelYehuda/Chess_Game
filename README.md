@@ -1,2 +1,2 @@
 # Chess_Game
-An online chess game project 
+An online chess game project ♟️
